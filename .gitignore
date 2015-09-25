@@ -32,6 +32,7 @@ nbproject
 .CVS
 .idea
 node_modules
+bower_components
 
 # configs for grunt tasks
 .grunt
